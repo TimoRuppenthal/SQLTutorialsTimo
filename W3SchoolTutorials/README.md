@@ -1,6 +1,6 @@
-Aufteilung in Kategorien:
+##Aufteilung in Kategorien:
 
- - DDL = Data Definition Language
+ - #DDL = Data Definition Language
 
     Diese Kategorie dient zum "Anlegen" und "Ändern" von Datenstrukturen
 
@@ -8,7 +8,7 @@ Aufteilung in Kategorien:
 
 
 
- - DML = Data Manipulation Language
+ - #DML = Data Manipulation Language
 
     Diese Kategorie dient zum "Auswählen", "Einfügen", "Ändern" und "Löschen" von Daten innerhalb von Tabellen
 

@@ -1,3 +1,5 @@
+Aufteilung in Kategorien:
+
 DDL = Data Definition Language
 
 Diese Kategorie dient zum "Anlegen" und "Ändern" von Datenstrukturen

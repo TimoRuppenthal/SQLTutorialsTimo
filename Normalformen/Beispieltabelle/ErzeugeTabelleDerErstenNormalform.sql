@@ -1,24 +1,18 @@
-/*Auslagern der nicht atomaren Attribute in verschiedene Zeilen oder Spalten oder eine eigene Tabelle*/
-DROP TABLE IF EXISTS Exercise1nf_table;
+DROP TABLE IF EXISTS erstenf_table;
 
-
- CREATE Table Exercise1nf_table(
- PersonalNummer varchar,
- PersonalName varchar(255),
- AbteilungNummer varchar(255),
- AbteilungName varchar(255),
- ProjektNummer varchar(255),
- ProjektName varchar(255),
- ProjektStunden varchar(255)
+ CREATE Table erstenf_table(
+  
+ ISBN int, /* zusammengesetzter (ganzer) Primärschlüssel*/
+ Kundennummer int,
+ AutorNachname varchar(255),
+ AutorVorname varchar(255),
+ Titel varchar(255),
+ Menge int,
+ PRIMARY KEY (ISBN, Kundennummer)
  );
 
- INSERT INTO Exercise1nf_table (PersonalNummer, PersonalName, AbteilungNummer, AbteilungName, ProjektNummer, ProjektName,  ProjektStunden)
+ INSERT INTO erstenf_table (ISBN, Kundennummer, AutorNachname, AutorVorname, Titel, Menge)
  
- VALUES ('101', 'Müller', '1', 'Motoren', '11','A', '60'),
-        ('101', 'Müller', '1', 'Motoren', '12', 'B', '40'),
-        ('102', 'Maier', '2', 'Karosserie', '13', 'C','100'),
-        ('103', 'Krause', '2', 'Karosserie', '11', 'A', '20'),
-        ('103', 'Krause', '2', 'Karosserie', '12', 'B', '50'),
-        ('103', 'Krause', '2', 'Karosserie', '13', 'C', '30'),
-        ('104', 'Schmidt', '1', 'Motoren', '11', 'A', '80'),
-        ('104', 'Schmidt', '1', 'Motoren', '13', 'C', '20')
+ VALUES ('343', '1', 'Schwinn', 'Hans', 'Relationale DB', '5'),
+        ('344', '15', 'Schwinn', 'Hans', 'Relationale DB', '6'),
+        ('345', '16', 'Hughes', 'John', 'Objektorientiert DB', '2')

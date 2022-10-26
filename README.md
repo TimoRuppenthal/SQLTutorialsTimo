@@ -19,12 +19,12 @@ Diese Tutorials dienen der Vermittlung von Grundwissen/-befehlen in SQL
 
 * Wichtig!: Prinzipiell ist die Reihenfolge in der die Befehle behandelt/ausgeführt werden egal, allerdings ist Vorraussetzung für jeden Befehl das bestehen einer Tabelle, weshalb das "Erstellen und Befüllen der Tabelle" immer Schritt Nummer 1 ist
 
-### Aufteilung in Kategorien:
-### DDL = Data Definition Language
-    Diese Kategorie dient zum "Anlegen" und "Ändern" von Datenstrukturen
+    ### Aufteilung in Kategorien:
+    ### DDL = Data Definition Language
+        * Diese Kategorie dient zum "Anlegen" und "Ändern" von Datenstrukturen
 
-### DML = Data Manipulation Language
-    Diese Kategorie dient zum "Auswählen", "Einfügen", "Ändern" und "Löschen" von Daten innerhalb von Tabellen
+    ### DML = Data Manipulation Language
+        * Diese Kategorie dient zum "Auswählen", "Einfügen", "Ändern" und "Löschen" von Daten innerhalb von Tabellen
 
 ## Anlegen von Tabellen in verschiedenen Normalformen
 

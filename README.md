@@ -28,6 +28,13 @@ Diese Tutorials dienen der Vermittlung von Grundwissen/-befehlen in SQL
 
 ## Anlegen von Tabellen in verschiedenen Normalformen
 
+Beispieltabelle:
+* Je nach Normalform wird eine unterschiedliche Anzahl an Tabellen benötigt
+
+* Ohne Normalform
+* Erste Normmalform
+* Zweite Normalform
+
 
 
 

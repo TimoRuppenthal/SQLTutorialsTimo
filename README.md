@@ -40,12 +40,12 @@ Beispieltabelle:
 
 Übungen:
 
-* [Ohne Normalform](Normalformen/Übungen/ÜbungOhneNormalform.sql)
-* [Erste Normalform](Normalformen/Übungen/ÜbungErsteNormalform.sql)
+* [Ohne Normalform](Normalformen/Übungen/OhneNormalform/ÜbungOhneNormalform.sql)
+* [Erste Normalform](Normalformen/Übungen/ErsteNormalform/ÜbungErsteNormalform.sql)
 * Zweite Normalform
-    * [Personal](Normalformen/Übungen/ÜbungZweiteNormalformPersonal.sql)
-    * [Projekt](Normalformen/Übungen/ÜbungZweiteNormalformProjekt.sql)
-    * [PersonalUndProjekt](Normalformen/Übungen/ÜbungZweiteNormalformPersonalUndProjekt.sql)
+    * [Personal](Normalformen/Übungen/ZweiteNormalform/ÜbungZweiteNormalformPersonal.sql)
+    * [Projekt](Normalformen/Übungen/ZweiteNormalform/ÜbungZweiteNormalformProjekt.sql)
+    * [PersonalUndProjekt](Normalformen/Übungen/ZweiteNormalform/ÜbungZweiteNormalformPersonalUndProjekt.sql)
 
 
 

@@ -32,20 +32,20 @@ Diese Tutorials dienen der Vermittlung von Grundwissen/-befehlen in SQL
 
 Beispieltabelle:
 
-* Ohne Normalform
-* Erste Normmalform
+* Ohne Normalform [Ohne Normalform](Normalformen/Beispieltabelle/ErzeugeTabelleOhneNormalform.sql)
+* Erste Normmalform [Erste Normalform](Normalformen/Beispieltabelle/ErzeugeTabelleDerErstenNormalform.sql)
 * Zweite Normalform
-    * Bestellung
-    * Buch
+    * Bestellung [Bestellung](Normalformen/Beispieltabelle/ErzeugeTabelleDerZweitenNormalformBestellung.sql)
+    * Buch [Buch](Normalformen/Beispieltabelle/ErzeugeTabelleDerZweitenNormalformBuch.sql)
 
 Übungen:
 
-* Ohne Normalform
-* Erste Normalform
-* Zweite Normalform
-    * Personal
-    * Projekt
-    * PersonalUndProjekt
+* Ohne Normalform [Ohne Normalform](deploy/entwicklerStack.yml)
+* Erste Normalform [Erste Normalform](deploy/entwicklerStack.yml)
+* Zweite Normalform [Zweite Normalform](deploy/entwicklerStack.yml)
+    * Personal [Personal](deploy/entwicklerStack.yml)
+    * Projekt [Projekt](deploy/entwicklerStack.yml)
+    * PersonalUndProjekt [PersonalUndProjekt](deploy/entwicklerStack.yml)
 
 
 

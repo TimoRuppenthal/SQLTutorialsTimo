@@ -9,11 +9,13 @@ Diese Tutorials dienen der Vermittlung von Grundwissen/-befehlen in SQL
 * Ein Datenbanktool, um die Datenbank anzeigen zu können und mit ihr interagieren zu können (bspw. DBVisualizer)
 * Eine Connection zu der Datenbank innerhalb des Tools
 
-## Scripte
+## Anleitung DBVisualizer
 
-* Als erstes müssen wir Scripte erstellen, um unseren Code dort hin zu verfrachten. Dafür gehen wir auf "Scripts", dann auf "Monitors" und erstellen mit einem "Rechtsklick" ein neues Script. (create file)
-* Dann ein Doppelklick auf dieses file und bei "Connectionen" PostgreSQL auswählen
-* Um die gewünschten Scripte auszuwählen geht ihr oben (auf Github nicht in der DB) auf den Ordner "sql-tutorial", dort sind alle Befehle inklusive Lösungen (results) hinterlegt
+* Im DBVisualizer angekommen:
+* Step 1: Scripte erstellen --> Dafür klicken wir auf "Scripts", dann in "Scripts" auf "Monitors" und erstellen mit einem "Rechtsklick" auf der Maus ein neues Script (create file).
+* Step 2: Eine Connection zu einer Datenbank herstellen --> ein "Doppelklick" auf das file das erstellt wurde und bei "Connection" "PostgreSQL" auswählen
+* Step 3: Um mit den hier vorhandenen W3SchoolTutorials zu beginnen, scrollt runter und verwendet die bereitgestellten Links
+* Step 4: Um mit den hier vorhandenen Normalformen zu beginnen, scrollt runter und verwendet die bereitgestellten Links
 
 ## Bearbeiten der W3SchoolTutorials
 

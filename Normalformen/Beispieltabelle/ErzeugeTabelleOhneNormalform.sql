@@ -19,3 +19,4 @@ DROP TABLE IF EXISTS first_table;
         ('4', 'Around the Horn','Thomas Hardy', '120 Hanover Sq.', 'London', 'WA1 1DP', 'UK'),
         ('5', 'Berglunds snabbköp', 'Christina Berglund', 'Berguvsvägen 8', 'Luleå', 'S-958 22', 'Sweden'),
         ('6', 'Blauer See Delikatessen', 'Hanna Moos', 'Forsterstr. 57', 'Mannheim', '68306', 'Germany')
+

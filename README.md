@@ -40,12 +40,12 @@ Beispieltabelle:
 
 Übungen:
 
-* [Ohne Normalform](deploy/entwicklerStack.yml)
-* [Erste Normalform](deploy/entwicklerStack.yml)
-* [Zweite Normalform](deploy/entwicklerStack.yml)
-    * [Personal](deploy/entwicklerStack.yml)
-    * [Projekt](deploy/entwicklerStack.yml)
-    * [PersonalUndProjekt](deploy/entwicklerStack.yml)
+* [Ohne Normalform](Normalformen/Übungen/ÜbungOhneNormalform.sql)
+* [Erste Normalform](Normalformen/Übungen/ÜbungErsteNormalform.sql)
+* Zweite Normalform
+    * [Personal](Normalformen/Übungen/ÜbungZweiteNormalformPersonal.sql)
+    * [Projekt](Normalformen/Übungen/ÜbungOhneNormalformProjekt.sql)
+    * [PersonalUndProjekt](Normalformen/Übungen/ÜbungOhneNormalformPersonalUndProjekt.sql)
 
 
 

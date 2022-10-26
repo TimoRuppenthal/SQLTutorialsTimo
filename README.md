@@ -32,20 +32,20 @@ Diese Tutorials dienen der Vermittlung von Grundwissen/-befehlen in SQL
 
 Beispieltabelle:
 
-* Ohne Normalform [Ohne Normalform](Normalformen/Beispieltabelle/ErzeugeTabelleOhneNormalform.sql)
-* Erste Normmalform [Erste Normalform](Normalformen/Beispieltabelle/ErzeugeTabelleDerErstenNormalform.sql)
+* [Ohne Normalform](Normalformen/Beispieltabelle/ErzeugeTabelleOhneNormalform.sql)
+* [Erste Normalform](Normalformen/Beispieltabelle/ErzeugeTabelleDerErstenNormalform.sql)
 * Zweite Normalform
-    * Bestellung [Bestellung](Normalformen/Beispieltabelle/ErzeugeTabelleDerZweitenNormalformBestellung.sql)
-    * Buch [Buch](Normalformen/Beispieltabelle/ErzeugeTabelleDerZweitenNormalformBuch.sql)
+    * [Bestellung](Normalformen/Beispieltabelle/ErzeugeTabelleDerZweitenNormalformBestellung.sql)
+    * [Buch](Normalformen/Beispieltabelle/ErzeugeTabelleDerZweitenNormalformBuch.sql)
 
 Übungen:
 
-* Ohne Normalform [Ohne Normalform](deploy/entwicklerStack.yml)
-* Erste Normalform [Erste Normalform](deploy/entwicklerStack.yml)
-* Zweite Normalform [Zweite Normalform](deploy/entwicklerStack.yml)
-    * Personal [Personal](deploy/entwicklerStack.yml)
-    * Projekt [Projekt](deploy/entwicklerStack.yml)
-    * PersonalUndProjekt [PersonalUndProjekt](deploy/entwicklerStack.yml)
+* [Ohne Normalform](deploy/entwicklerStack.yml)
+* [Erste Normalform](deploy/entwicklerStack.yml)
+* [Zweite Normalform](deploy/entwicklerStack.yml)
+    * [Personal](deploy/entwicklerStack.yml)
+    * [Projekt](deploy/entwicklerStack.yml)
+    * [PersonalUndProjekt](deploy/entwicklerStack.yml)
 
 
 

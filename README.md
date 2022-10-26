@@ -12,7 +12,7 @@ Diese Tutorials dienen der Vermittlung von Grundwissen/-befehlen in SQL
 ## Anleitung DBVisualizer
 
 * Im DBVisualizer angekommen:
-    * Step 1: Scripte erstellen --> Dafür klicken wir auf "Scripts", dann in "Scripts" auf "Monitors" und erstellen mit einem "Rechtsklick" auf der Maus ein neues Script (create file)
+    * Step 1: Scripte erstellen --> Dafür klicken wir auf "Scripts" (oben links), dann in "Scripts" auf "Monitors" und erstellen mit einem "Rechtsklick" auf der Maus ein neues Script (create file)
     
     * Step 2: Eine Connection zu einer Datenbank herstellen --> ein "Doppelklick" auf das file das erstellt wurde und bei "Connection" "PostgreSQL" auswählen
     

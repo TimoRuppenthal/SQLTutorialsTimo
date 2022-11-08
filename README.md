@@ -1,5 +1,4 @@
-#digitaliserung
-#digilab
+
 # SQL-Tutorials:
 Diese Tutorials dienen der Vermittlung von Grundwissen/-befehlen in SQL  
 

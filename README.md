@@ -4,7 +4,7 @@ Diese Tutorials dienen der Vermittlung von Grundwissen/-befehlen in SQL und unte
 
 ## Anforderungen 
 
-* Ein laufender [entwickler stack](deploy/entwicklerStack.yml), der eine Postgres DB zur Verfügung stellt
+* Ein laufender [entwickler stack](Entwicklerstack/entwicklerStack.yml), der eine Postgres DB zur Verfügung stellt
 * Ein Datenbanktool, um die Datenbank anzeigen zu können und mit ihr interagieren zu können (hier DBVisualizer)
 * Eine Connection zu der Datenbank innerhalb des Tools (hier DBVisualizer)
 

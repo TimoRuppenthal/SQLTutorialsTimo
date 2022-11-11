@@ -1,12 +1,12 @@
 
 # SQL-Tutorials:
-Diese Tutorials dienen der Vermittlung von Grundwissen/-befehlen in SQL  
+Diese Tutorials dienen der Vermittlung von Grundwissen/-befehlen in SQL und unterstützen Timo Ruppenthal bei seiner Arbeit mit dem Thema Datenbanken, der Zusammenarbeit für das DIGISPINE und seiner späteren Abschlussarbeit.
 
 ## Anforderungen 
 
 * Ein laufender [entwickler stack](deploy/entwicklerStack.yml), der eine Postgres DB zur Verfügung stellt
-* Ein Datenbanktool, um die Datenbank anzeigen zu können und mit ihr interagieren zu können (bspw. DBVisualizer)
-* Eine Connection zu der Datenbank innerhalb des Tools
+* Ein Datenbanktool, um die Datenbank anzeigen zu können und mit ihr interagieren zu können (hier DBVisualizer)
+* Eine Connection zu der Datenbank innerhalb des Tools (hier DBVisualizer)
 
 ## Anleitung DBVisualizer
 
@@ -21,7 +21,7 @@ Diese Tutorials dienen der Vermittlung von Grundwissen/-befehlen in SQL
 
 ## Bearbeiten der W3SchoolTutorials
 
-* Wichtig!: Prinzipiell ist die Reihenfolge in der die Befehle behandelt/ausgeführt werden egal, allerdings ist Vorraussetzung für jeden Befehl das bestehen einer Tabelle, weshalb das "Erstellen und Befüllen der Tabelle" immer Schritt Nummer 1 ist
+* Wichtig!: Vorraussetzung für jeden Befehl ist das Bestehen einer Tabelle, weshalb das "Erstellen und Befüllen der Tabelle" immer Schritt Nummer 1 ist. Des Weiteren sollten die Befehle in einer sinnvollen und logischen Reihenfolge ausgeführt werden.
 
     ### Aufteilung in Kategorien:
     ### DDL = Data Definition Language

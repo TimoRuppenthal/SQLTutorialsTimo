@@ -21,7 +21,8 @@ Diese Tutorials dienen der Vermittlung von Grundwissen/-befehlen in SQL und unte
 
 ## Bearbeiten der W3SchoolTutorials
 
-* Wichtig!: Vorraussetzung für jeden Befehl ist das Bestehen einer Tabelle, weshalb das "Erstellen und Befüllen der Tabelle" immer Schritt Nummer 1 ist. Des Weiteren sollten die Befehle in einer sinnvollen und logischen Reihenfolge ausgeführt werden.
+* Wichtig!: Zu Anfang muss eine Tabelle erstellt und diese befüllt werden. Befehle, die nur gegen Ende ausgeführt werden können sind: "Delete, Drop Table, Drop Database". Ein Befehl wie "Update" kann, nachdem eine Tabelle erstellt/befüllt wurde, zu jeder Zeit ausgeführt werden. 
+
 
     ### Aufteilung in Kategorien:
     ### DDL = Data Definition Language

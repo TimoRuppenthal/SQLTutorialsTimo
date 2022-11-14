@@ -21,9 +21,10 @@ Diese Tutorials dienen der Vermittlung von Grundwissen/-befehlen in SQL und unte
 
 ## Bearbeiten der W3SchoolTutorials
 
-* Wichtig!: Zu Anfang muss eine Tabelle erstellt und diese befüllt werden. 
-            Befehle, die nur gegen Ende ausgeführt werden können sind: "Delete, Drop Table, Drop Database". 
-            Ein Befehl wie "Update" kann, nachdem eine Tabelle erstellt/befüllt wurde, zu jeder Zeit ausgeführt werden. 
+* Wichtig!: 
+   * Zu Anfang muss eine Tabelle erstellt und diese befüllt werden. 
+   * Befehle, die nur gegen Ende ausgeführt werden können sind: "Delete, Drop Table, Drop Database". 
+   * Ein Befehl wie "Update" kann, nachdem eine Tabelle erstellt/befüllt wurde, zu jeder Zeit ausgeführt werden. 
 
 
     ### Aufteilung in Kategorien:
